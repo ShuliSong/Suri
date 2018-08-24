@@ -1,0 +1,12 @@
+name: app-dabao
+title: app-dabao
+username:
+account: pnpsimulator
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 298315
+bundleId: 1283756
+url: https://pnpsimulator.shinyapps.io/app-dabao/
+when: 1521781823.91044
+asMultiple: FALSE
+asStatic: FALSE
